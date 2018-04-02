@@ -27,7 +27,7 @@ function theBeatlesPlay(musicians, instruments)
  
 }
 
-// got right
+
 function johnLennonFacts(array)
 {
   
